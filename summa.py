@@ -21,7 +21,7 @@ y=198
 time.sleep(25)
 
 pyautogui.click(x, y)
-#clicks Kite app
+#clicks Kite apphieioheriow
 x=607
 y=587
 time.sleep(10)
